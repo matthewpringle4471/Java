@@ -1,2 +1,1 @@
-# JavaCP1
-First Java I Project
+# Java  - the popsalesarray.java member uses at least 5 arrays in initialization, validation, calculations and printing items out to a file or console.  I know it is simple to many of you but I thoroughly enjoyed the challenge.
