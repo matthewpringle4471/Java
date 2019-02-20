@@ -1,1 +1,1 @@
-# Java  - the popsalesarray.java member uses at least 5 arrays in initialization, validation, calculations and printing items out to a file or console.  I know it is simple to many of you but I thoroughly enjoyed the challenge.
+# Java  - the popsalesarray.java member uses at least 5 arrays in initialization, validation, calculations and printing items out to a file or console.  The logic also deals with many accumulators and control breaks.  An error report is also produced dumping the invalid records with an error message.
